@@ -1,7 +1,7 @@
 # FastAPI Template
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-v0.103.1-blue?style=flat-square&logo=fastapi)  
-Шаблон для создания приложений на основном стеке **FastAPI**, **SQLAlchemy**, **Alembic**
+Шаблон для создания приложений на основном стеке **FastAPI**, **SQLAlchemy**, **Alembic**, **Pydantic**
 
 ---
 
@@ -79,5 +79,5 @@ fastapi-template/
 ├── nginx/                    # Под Nginx конфигурацию
 ├── .env                      # Переменные окружения
 ├── pyproject.toml            # Poetry конфигурация
-
+├── ruff.toml                 # Ruff конфигурация
 
